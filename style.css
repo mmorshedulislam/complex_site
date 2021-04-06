@@ -1,0 +1,23 @@
+.accordion-area span{
+    display: block;
+}
+
+.third-section-area p span{
+    display: block;
+}
+
+.cursos-item span{
+    display: block;
+    margin-bottom: 15px;
+}
+
+.cursos-item span input{
+    float: none;
+}
+.double-button{
+    text-align: center;
+}
+.double-button button{
+    display: block;
+    text-align: center;
+}
